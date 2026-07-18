@@ -1,10 +1,10 @@
 ![Header](./img/github-header-banner.png)
 
-#### Tech Stack
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,vscode,py,java,html,css,js,figma,bootstrap,tailwind,react,supabase,vercel,nodejs,vite,vue&theme=dark&perline=8)](https://skillicons.dev)
 <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-#### Play With Me
+## Play With Me
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-#### GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=ekawahyu-project&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ekawahyu-project&theme=shadow_blue&hide_border=true)<br/>
 
