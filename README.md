@@ -3,7 +3,13 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,vscode,py,java,html,css,js,figma,bootstrap,tailwind,react,supabase,vercel,nodejs,vite,vue&theme=dark&perline=8)](https://skillicons.dev)
 <br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+**I'm an Information Technology Education student at Universitas Brawijaya who enjoys building digital products that combine technology, design, and user experience**.
+
+**Currently, I'm exploring Software Development, UI/UX Design, and Artificial Intelligence while building personal and academic projects.**
+
+
 ## Play With Me
 
 ###
