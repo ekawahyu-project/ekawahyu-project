@@ -27,5 +27,4 @@
 ###
 
 ## GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=ekawahyu-project&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ekawahyu-project&theme=shadow_blue&hide_border=true)<br/>
