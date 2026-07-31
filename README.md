@@ -9,6 +9,8 @@
 
 **Currently, I'm exploring Software Development, UI/UX Design, and Artificial Intelligence while building personal and academic projects.**
 
+## GitHub Stats
+![](https://streak-stats.demolab.com/?user=ekawahyu-project&theme=shadow_blue&hide_border=true)<br/>
 
 ## Play With Me
 
@@ -26,5 +28,4 @@
 
 ###
 
-## GitHub Stats
-![](https://streak-stats.demolab.com/?user=ekawahyu-project&theme=shadow_blue&hide_border=true)<br/>
+
